@@ -4,7 +4,7 @@
 </div>
 
 <div id="socials" align="center">
-  <a href="telegram-url">
+  <a href="https://t.me/kostya_fadeev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
@@ -12,7 +12,7 @@
 ### About me
 - 🌱 I’m currently learning **ReactNative, TypeScript**
 - 📄 I have a number of personal projects on React
-- 📫 Reach me by [email](mailto:email-address)
+- 📫 Reach me by [email](mailto:kostya.fad1@gmail.com)
 - 👨‍💻 I can make an information site for you
 
 ---
